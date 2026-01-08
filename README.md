@@ -1,4 +1,4 @@
-##👋 Aykhan Pashayev
+## 👋 Aykhan Pashayev
 
 🎓 Cybersecurity Student @ Florida International University (Class of 2026)
 🔐 CompTIA Security+ | ☁️ AWS Solutions Architect – Associate
